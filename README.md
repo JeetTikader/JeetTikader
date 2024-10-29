@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeet Tikader</h1>
-<h3 align="center">I'm a Software Developer passionate about app development and Android open-source contributions. I love bringing ideas to life on Android and am always on the lookout for ways to contribute to the community. In addition to mobile apps, I have a keen interest in indie game development, where I enjoy exploring creative concepts and unique gameplay experiences.</h3>
-<h4 align="center">🌱 Currently, I'm deepening my skills in mobile app frameworks and experimenting with game mechanics in my spare time. Feel free to explore my projects and reach out if you'd like to collaborate!</h4>
+<h3 align="center">A Software Developer with a passion for app development, Android open-source contributions, and indie game development. I enjoy creating mobile experiences and exploring new gameplay ideas. Check out my projects, and feel free to connect!</h3>
+
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI1ODhjeDd0bTVzOGMxZWpncTczaGhiOWV5cHQxazVxaWRzaWRldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeettikader&label=Profile%20views&color=0e75b6&style=flat" alt="jeettikader" /> </p>
