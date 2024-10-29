@@ -1,7 +1,7 @@
 [![MasterHead](ttps://giphy.com/gifs/coding-zOvBKUUEERdNm)]()
 <h1 align="center">Hi 👋, I'm Jeet Tikader</h1>
 <h3 align="center">I'm a Software Developer passionate about app development and Android open-source contributions. I love bringing ideas to life on Android and am always on the lookout for ways to contribute to the community. In addition to mobile apps, I have a keen interest in indie game development, where I enjoy exploring creative concepts and unique gameplay experiences. 🌱 Currently, I'm deepening my skills in mobile app frameworks and experimenting with game mechanics in my spare time. Feel free to explore my projects and reach out if you'd like to collaborate!</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI1ODhjeDd0bTVzOGMxZWpncTczaGhiOWV5cHQxazVxaWRzaWRldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeettikader&label=Profile%20views&color=0e75b6&style=flat" alt="jeettikader" /> </p>
 
