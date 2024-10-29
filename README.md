@@ -1,3 +1,4 @@
+[![MasterHead] width="800"(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI1ODhjeDd0bTVzOGMxZWpncTczaGhiOWV5cHQxazVxaWRzaWRldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp)]()
 <h1 align="center">Hi 👋, I'm Jeet Tikader</h1>
 <h3 align="center">A Software Developer with a passion for app development, Android open-source contributions, and indie game development. I enjoy creating mobile experiences and exploring new gameplay ideas. Check out my projects, and feel free to connect!</h3>
 
